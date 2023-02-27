@@ -1,6 +1,9 @@
 ## link
 https://www.codewars.com/kata/638b042bf418c453377f28ad/train/javascript
 
+## rank
+5
+
 ## Instructions
 
 The code consists of four unique digits (from 0 to 9).
