@@ -1,7 +1,12 @@
 import { isEqual } from "lodash";
 
-import DigitsGame from "./Digits";
+import DigitsGame from "./5kyu/Digits";
 
+import MexicanWave from "./6kyu/Mexican_Wave";
+
+/**
+ * DigitsGame
+ */
 (function digitsGame() {
   let counter = 0;
   let matches = -1;
@@ -23,3 +28,10 @@ import DigitsGame from "./Digits";
     counter += 1;
   }
 })();
+
+/**
+ * MexicanWave
+ */
+(() => {
+  console.log('MexicanWave',  MexicanWave.wave('two words'));
+})()

@@ -1,7 +1,7 @@
-## link
+## Link
 https://www.codewars.com/kata/638b042bf418c453377f28ad/train/javascript
 
-## rank
+## Rank
 5
 
 ## Instructions
@@ -17,3 +17,4 @@ The code is [1, 2, 3, 4]
 2 call return [1, 2, 3, 0] will give 3 matches in next input
 3 call return [1, 2, 3, 4] will not give 4 matches in next input, because you're the champion!
 
+## Review
