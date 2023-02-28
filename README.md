@@ -13,5 +13,8 @@
    - [Will_there_be_enough_space](./src/8kyu/Will_there_be_enough_space)
 - 7kyu
 - 6kyu
+   - [Mexican_Wave](./src/6kyu/Mexican_Wave)
+   - [Two_Sum](./src/6kyu/Two_Sum)
 - 5kyu
+   - [Digits](./src/5kyu/Digits)
 ---
